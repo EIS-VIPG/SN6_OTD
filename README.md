@@ -5,7 +5,7 @@ This is a repository of the official implementation of the following paper:
   
 
 ## DataSet
-We conduct the **SpaceNet6-OTD** (Oil Tank Detection) datasets based on the [SpaceNet6](https://spacenet.ai/sn6-challenge/) dataset. The annotations of oil tank is provided in the projectes. 
+We build the **SpaceNet6-OTD** (Oil Tank Detection) datasets based on the [SpaceNet6](https://spacenet.ai/sn6-challenge/) dataset. The annotations of oil tank is provided in the projectes. You should download the images from  [SpaceNet6](https://spacenet.ai/sn6-challenge/) and put them in the corresponding 'data' fold.
 
 
 
